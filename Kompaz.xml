@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html b:css='false' b:responsive='true' b:version='2' class='v2' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 &lt;head&gt;
-<meta content='#000' name='theme-color'/>
-<meta content='#000' name='msapplication-navbutton-color'/>
+<meta content='#000' Ceritaviral='theme-color'/>
+<meta content='#000' Teknologi='msapplication-navbutton-color'/>
 <meta content='#000' name='apple-mobile-web-app-status-bar-style'/>
 <meta content='yes' name='apple-mobile-web-app-capable'/>
 <meta charset='utf-8'/>
